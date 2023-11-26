@@ -18,8 +18,12 @@ git log **mostra as ultimas versões do repositório**
 
 git pull origin main **puxa os arquivos do repositório no github e baixa no seu repositório remoto**
 
+**também é possível fazer essa mudanças pela interface do vscode**
+
 git revert idDOCommit **reverte o commit selecionado**
 
 git reset --hard idDoCommitAnterior(para o qual quer voltar) **apaga o commit do seu repositório local**
 
-**também é possível fazer essa mudanças pela interface do vscode**
+**crie um arquivo .gitignore para ignorar alguns commits**
+
+**Gist é uma ferramente incrível do Github que permite você compartilhar apenas partes do código**
