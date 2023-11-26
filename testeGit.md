@@ -20,4 +20,6 @@ git pull origin main **puxa os arquivos do repositório no github e baixa no seu
 
 git revert idDOCommit **reverte o commit selecionado**
 
+git reset --hard idDoCommitAnterior(para o qual quer voltar) **apaga o commit do seu repositório local**
+
 **também é possível fazer essa mudanças pela interface do vscode**
