@@ -8,3 +8,6 @@ git clone linkDoRepositórioNoGithub **faz download do repositório na pasta em 
 git status **mostra os arquivos alterados, adicionaddos no repositório local e os que ainda não foram adicionador**
 git log **mostra as ultimas versões do repositório local**
 git pull origin main **puxa os arquivos do repositório no github e baixa no seu repositório remoto**
+
+
+**também é possível fazer essa mudanças pela interface do vscode**
