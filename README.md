@@ -6,7 +6,7 @@ git commit -m "mensagem" **cria um repositório online e deixa os arquivos onlin
 
 git branch -M main **renomea a branch para main/padrão para projetos**
 
-git remote add origin linkDoRepositórioNoGithub **upa os arquivos do repositório online para o repositório criado no github**
+git remote add origin linkDoRepositórioNoGithub.git **upa os arquivos do repositório online para o repositório criado no github**
 
 git push -u origin main **upa os arquivos do repositório online para o repositório criado no github**
 
